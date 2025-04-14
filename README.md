@@ -44,7 +44,7 @@ Este projeto tem como objetivo transformar uma base de dados bruta em um **dashb
 
 ## 🧾 Fonte dos Dados
 
-A base de dados (`base.xlsx`) foi fornecida como parte de um desafio para fins educacionais e de desenvolvimento de habilidades com ferramentas de visualização de dados.
+A base de dados (`base.xlsx`). Desenvolvimento de habilidades com ferramentas de visualização de dados.
 
 ---
 
