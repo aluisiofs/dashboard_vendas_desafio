@@ -16,7 +16,7 @@ Este projeto tem como objetivo transformar uma base de dados bruta em um **dashb
 
 ## 💻 Como Visualizar o Dashboard
 
-1. Faça o download do arquivo `dashboard_xbox_finalizado.xlsx`.
+1. Faça o download do arquivo `dashboard_vendas.xlsx`.
 2. Abra com o **Microsoft Excel** (ou outro software compatível que mantenha a formatação e interatividade dos elementos).
 3. Explore o dashboard para visualizar as análises de vendas.
 
@@ -50,6 +50,6 @@ A base de dados (`base.xlsx`) foi fornecida como parte de um desafio para fins e
 
 ## 🧠 Autor
 
-Desenvolvido como parte de um desafio de dashboard com foco em **organização e análise visual de dados**.
+Desafio de dashboard com foco em **organização e análise visual de dados**.
 
 ---
