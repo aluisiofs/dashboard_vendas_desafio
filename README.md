@@ -7,13 +7,6 @@ Este projeto tem como objetivo transformar uma base de dados bruta em um **dashb
 
 ---
 
-## 📁 Estrutura do Repositório
-
-- `base.xlsx`: Base de dados original com informações de vendas.
-- `dashboard_xbox_finalizado.xlsx`: Arquivo Excel contendo o dashboard finalizado com gráficos e análises visuais.
-
----
-
 ## 💻 Como Visualizar o Dashboard
 
 1. Faça o download do arquivo `dashboard_vendas.xlsx`.
